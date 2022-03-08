@@ -1,4 +1,4 @@
-package cn.xanderye.creational.simpleFactory;
+package cn.xanderye.creational.common;
 
 /**
  * @author XanderYe

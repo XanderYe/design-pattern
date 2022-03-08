@@ -1,5 +1,10 @@
 package cn.xanderye.creational.simpleFactory;
 
+import cn.xanderye.creational.common.IProduct;
+import cn.xanderye.creational.common.ProductA;
+import cn.xanderye.creational.common.ProductB;
+import cn.xanderye.creational.common.ProductC;
+
 /**
  * @author XanderYe
  * @description:

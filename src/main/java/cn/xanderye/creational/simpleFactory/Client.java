@@ -1,5 +1,7 @@
 package cn.xanderye.creational.simpleFactory;
 
+import cn.xanderye.creational.common.IProduct;
+
 /**
  * @author XanderYe
  * @description:

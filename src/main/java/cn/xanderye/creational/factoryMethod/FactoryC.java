@@ -1,5 +1,9 @@
 package cn.xanderye.creational.factoryMethod;
 
+import cn.xanderye.creational.common.IFactory;
+import cn.xanderye.creational.common.IProduct;
+import cn.xanderye.creational.common.ProductC;
+
 /**
  * @author XanderYe
  * @description:
